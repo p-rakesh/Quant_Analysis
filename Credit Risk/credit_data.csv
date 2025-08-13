@@ -1,0 +1,1001 @@
+customer_id,income,age,loan_amount,credit_score,employment_status,loan_purpose,default
+1,69934,63,10614,678,Employed,Debt Consolidation,0
+2,57234,59,15755,677,Employed,Home,0
+3,72953,30,20982,483,Employed,Car,1
+4,90460,22,16142,635,Retired,Car,0
+5,55316,25,11853,630,Employed,Debt Consolidation,1
+6,55317,28,11102,764,Employed,Debt Consolidation,0
+7,91584,25,14804,676,Employed,Other,0
+8,75348,28,46758,626,Employed,Home,0
+9,50610,58,12449,642,Employed,Education,0
+10,70851,50,26823,731,Employed,Home,0
+11,50731,51,18853,635,Employed,Car,0
+12,50685,60,7791,594,Employed,Education,0
+13,64839,31,4788,627,Employed,Home,0
+14,21734,27,14064,725,Employed,Home,0
+15,25501,27,21748,689,Employed,Debt Consolidation,0
+16,48754,47,17172,653,Employed,Education,0
+17,39743,39,23900,665,Employed,Car,0
+18,66284,26,17244,605,Employed,Education,0
+19,41839,30,16368,634,Employed,Other,0
+20,31753,39,19389,596,Employed,Home,0
+21,89312,35,24371,626,Employed,Other,0
+22,55484,23,11135,757,Employed,Debt Consolidation,0
+23,61350,25,8672,563,Employed,Car,0
+24,31505,41,34144,594,Employed,Home,0
+25,49112,45,6518,549,Employed,Other,0
+26,62218,22,38284,532,Student,Car,0
+27,36980,60,28007,635,Employed,Home,0
+28,67513,61,31383,600,Employed,Home,0
+29,47987,33,10742,790,Employed,Other,0
+30,54166,30,16631,627,Employed,Debt Consolidation,1
+31,47965,37,13814,753,Employed,Other,0
+32,97045,31,14569,727,Employed,Debt Consolidation,0
+33,59730,42,21373,633,Employed,Education,0
+34,38845,31,13630,818,Employed,Other,0
+35,76450,32,26547,671,Employed,Car,0
+36,35583,44,37006,771,Employed,Education,1
+37,64177,64,14870,761,Employed,Other,0
+38,20806,38,20886,683,Employed,Debt Consolidation,1
+39,33436,55,20304,710,Employed,Other,1
+40,63937,64,30448,699,Employed,Education,0
+41,74769,27,18747,558,Employed,Debt Consolidation,0
+42,63427,48,16554,654,Employed,Home,0
+43,57687,51,7362,735,Employed,Car,0
+44,53977,63,17512,772,Employed,Car,0
+45,30429,37,21350,592,Employed,Home,0
+46,45603,25,34884,692,Employed,Car,0
+47,50787,37,49300,662,Employed,Home,0
+48,81142,38,9311,640,Employed,Car,0
+49,66872,41,13032,678,Student,Debt Consolidation,0
+50,24739,56,18619,667,Employed,Car,0
+51,66481,51,29736,693,Employed,Car,1
+52,52298,60,18478,765,Employed,Car,0
+53,46461,22,12563,712,Employed,Car,0
+54,72233,47,16776,674,Employed,Other,0
+55,80619,29,13780,799,Unemployed,Debt Consolidation,0
+56,78625,54,24982,738,Employed,Debt Consolidation,0
+57,43215,48,18066,642,Employed,Home,1
+58,53815,34,14855,552,Employed,Debt Consolidation,0
+59,66625,52,41640,570,Employed,Home,1
+60,79510,26,11545,724,Employed,Car,0
+61,50416,31,5608,599,Student,Other,0
+62,56286,49,20364,569,Employed,Debt Consolidation,0
+63,37873,40,13724,589,Employed,Education,1
+64,36075,50,24153,595,Employed,Debt Consolidation,0
+65,76250,43,19805,718,Employed,Other,0
+66,87124,39,19209,637,Employed,Debt Consolidation,0
+67,58559,56,17487,540,Employed,Car,0
+68,80070,23,17728,652,Employed,Home,0
+69,67232,47,18700,667,Employed,Car,0
+70,47097,63,25402,611,Retired,Car,0
+71,67227,39,9823,742,Employed,Car,0
+72,90760,43,17206,616,Employed,Other,0
+73,59283,51,25609,738,Employed,Other,0
+74,91292,60,22245,697,Employed,Car,0
+75,20000,55,31416,724,Employed,Debt Consolidation,0
+76,76438,53,13227,562,Employed,Car,0
+77,61740,55,2512,657,Employed,Other,0
+78,54019,21,18045,645,Employed,Education,1
+79,61835,34,21045,536,Employed,Car,1
+80,20248,53,29494,738,Employed,Car,0
+81,55606,55,25648,584,Employed,Education,0
+82,67142,25,22508,601,Employed,Car,0
+83,89557,58,22393,568,Employed,Education,1
+84,49634,61,15705,706,Employed,Other,0
+85,43830,31,7759,527,Employed,Car,0
+86,49964,22,18988,699,Employed,Car,0
+87,78308,64,25159,733,Employed,Other,0
+88,66575,37,21553,692,Employed,Education,0
+89,49404,59,37505,707,Employed,Home,0
+90,70265,40,21610,710,Employed,Home,0
+91,61941,34,23654,574,Student,Home,0
+92,79372,52,23899,764,Employed,Debt Consolidation,0
+93,45958,54,14526,613,Employed,Debt Consolidation,0
+94,53446,45,12528,644,Employed,Education,0
+95,52157,27,30754,623,Employed,Home,1
+96,30729,55,24391,689,Employed,Car,0
+97,65922,49,15643,606,Employed,Other,0
+98,65221,42,7543,655,Employed,Education,0
+99,60102,61,11326,551,Employed,Other,0
+100,55308,63,18889,743,Employed,Other,0
+101,31692,33,29413,703,Employed,Home,0
+102,51587,33,21695,626,Employed,Debt Consolidation,0
+103,53145,21,24243,612,Employed,Debt Consolidation,1
+104,43954,56,16544,701,Employed,Education,1
+105,56774,24,20226,593,Employed,Car,0
+106,68081,57,19090,660,Employed,Debt Consolidation,0
+107,97723,64,41474,742,Employed,Home,0
+108,63491,60,27529,585,Unemployed,Education,0
+109,65151,33,7344,679,Employed,Education,0
+110,58511,58,15195,675,Employed,Other,0
+111,21624,44,17513,642,Employed,Other,1
+112,59469,39,15757,609,Employed,Car,0
+113,61204,21,30305,747,Employed,Education,1
+114,109264,58,29821,602,Employed,Home,0
+115,56152,25,10766,505,Employed,Other,0
+116,66030,36,22051,701,Employed,Other,0
+117,59305,44,20276,553,Employed,Car,0
+118,36626,47,22268,705,Employed,Debt Consolidation,0
+119,82856,21,35951,756,Employed,Debt Consolidation,0
+120,75038,54,31419,700,Employed,Home,0
+121,75820,56,16736,735,Employed,Debt Consolidation,1
+122,41812,24,2000,811,Unemployed,Education,0
+123,88055,20,17994,727,Employed,Debt Consolidation,1
+124,31962,59,26555,676,Employed,Education,0
+125,71737,31,25851,780,Employed,Home,0
+126,103809,55,2000,790,Employed,Car,0
+127,40189,64,20720,791,Student,Home,1
+128,48674,42,25241,610,Employed,Other,0
+129,61993,50,21643,541,Employed,Other,0
+130,49930,30,10488,605,Employed,Other,0
+131,28986,29,13251,706,Employed,Car,0
+132,61371,22,21825,662,Employed,Home,1
+133,38753,33,11915,633,Employed,Other,1
+134,69471,35,2000,694,Employed,Other,0
+135,41611,29,36621,532,Employed,Home,1
+136,90998,48,26179,661,Employed,Education,0
+137,44334,29,7867,739,Employed,Home,0
+138,53558,31,30819,693,Employed,Debt Consolidation,0
+139,76270,49,18562,705,Employed,Debt Consolidation,0
+140,35382,60,42436,777,Employed,Home,0
+141,64549,20,16792,644,Employed,Education,0
+142,86142,24,17543,597,Employed,Education,0
+143,27850,39,21128,745,Employed,Car,0
+144,63692,27,10889,743,Employed,Other,0
+145,65197,62,25698,694,Employed,Education,0
+146,75636,31,8580,637,Employed,Car,0
+147,35260,20,13404,650,Employed,Education,0
+148,33590,39,24270,547,Employed,Debt Consolidation,0
+149,70438,47,13722,739,Employed,Car,0
+150,65939,62,24531,736,Employed,Car,1
+151,65009,56,28325,545,Employed,Other,1
+152,66928,56,28714,719,Employed,Debt Consolidation,0
+153,46399,31,2000,682,Employed,Education,0
+154,64645,56,17469,568,Employed,Education,1
+155,65861,63,39961,553,Employed,Home,1
+156,45712,47,6939,679,Employed,Car,0
+157,97315,34,24078,618,Employed,Car,0
+158,69476,25,21639,795,Employed,Education,0
+159,36173,63,7818,726,Employed,Car,0
+160,73131,39,25007,687,Employed,Car,0
+161,40506,33,30435,691,Employed,Home,1
+162,75741,21,25418,756,Employed,Debt Consolidation,0
+163,83171,28,9882,717,Employed,Car,1
+164,43586,56,18458,689,Employed,Other,0
+165,79267,39,3525,571,Employed,Other,0
+166,68255,45,2000,850,Employed,Home,0
+167,76441,48,19182,561,Employed,Car,0
+168,97935,20,29515,624,Employed,Debt Consolidation,1
+169,55092,54,20124,517,Employed,Car,1
+170,44925,25,26200,693,Employed,Home,0
+171,42209,56,15740,662,Employed,Other,0
+172,43683,24,9242,711,Employed,Education,0
+173,58457,52,14791,510,Employed,Education,1
+174,66823,33,23337,739,Employed,Debt Consolidation,0
+175,65533,31,13746,585,Employed,Other,0
+176,76543,61,36457,638,Employed,Home,0
+177,60260,39,29469,724,Employed,Home,0
+178,89070,43,18940,670,Employed,Education,0
+179,54706,62,23342,676,Employed,Education,0
+180,114403,53,12443,713,Employed,Education,0
+181,72513,44,25500,684,Employed,Debt Consolidation,1
+182,42856,48,15983,622,Employed,Debt Consolidation,1
+183,38582,58,19983,636,Employed,Other,1
+184,69649,50,18863,666,Employed,Home,0
+185,55530,62,9487,578,Employed,Education,0
+186,74280,42,18771,729,Employed,Car,0
+187,69464,63,2074,673,Student,Other,0
+188,58543,57,15511,655,Employed,Car,0
+189,43064,39,6759,745,Employed,Home,0
+190,29703,42,22500,640,Employed,Education,0
+191,51069,64,24585,635,Employed,Education,0
+192,77127,35,10742,611,Employed,Car,0
+193,64281,61,21597,677,Employed,Car,0
+194,35085,27,24488,674,Employed,Other,1
+195,63463,40,23449,596,Employed,Education,0
+196,67706,20,18976,635,Employed,Other,0
+197,42322,27,22154,597,Employed,Education,1
+198,63074,48,18818,593,Employed,Home,0
+199,61164,51,17919,511,Student,Other,0
+200,37140,57,13489,631,Employed,Other,0
+201,67155,24,11343,513,Employed,Other,0
+202,71215,41,17540,612,Employed,Other,1
+203,81661,53,20047,600,Employed,Other,0
+204,81076,20,41660,734,Employed,Home,0
+205,32446,45,18541,568,Employed,Education,1
+206,41243,62,23392,589,Employed,Car,1
+207,70300,29,21530,619,Employed,Education,0
+208,70275,49,60862,603,Employed,Home,0
+209,70300,37,2795,759,Employed,Car,0
+210,137054,36,11712,558,Employed,Other,0
+211,71417,45,30382,619,Employed,Car,1
+212,82711,27,16296,676,Employed,Debt Consolidation,0
+213,79080,59,23320,720,Student,Education,0
+214,73027,31,18271,619,Employed,Education,0
+215,53694,46,34196,496,Employed,Other,1
+216,75179,27,8289,637,Employed,Other,0
+217,44543,44,25907,758,Employed,Education,0
+218,55263,23,35421,672,Employed,Debt Consolidation,0
+219,50292,52,14218,668,Employed,Home,0
+220,61637,20,24576,564,Employed,Car,1
+221,106293,38,9477,556,Employed,Other,1
+222,22654,50,16732,651,Employed,Education,1
+223,73725,35,14524,535,Employed,Education,0
+224,27745,33,2000,712,Employed,Debt Consolidation,0
+225,50561,24,32345,582,Employed,Home,1
+226,81779,60,17603,648,Employed,Education,0
+227,61285,45,27888,499,Employed,Education,1
+228,38445,47,22169,618,Employed,Other,0
+229,45693,21,55865,555,Employed,Home,0
+230,73591,25,18111,464,Student,Other,0
+231,45392,28,25670,693,Employed,Home,1
+232,64329,52,24677,781,Employed,Home,0
+233,60911,60,13115,740,Employed,Education,0
+234,46967,44,2000,704,Employed,Debt Consolidation,0
+235,102878,32,16150,616,Employed,Car,0
+236,72678,28,2000,714,Employed,Home,0
+237,20000,32,20888,747,Employed,Other,1
+238,63729,50,7583,660,Employed,Car,0
+239,46764,60,9613,555,Employed,Education,1
+240,77048,30,13408,610,Employed,Debt Consolidation,0
+241,44149,23,14922,786,Employed,Education,0
+242,57705,53,16552,644,Employed,Education,0
+243,70099,57,24850,384,Employed,Education,0
+244,77315,23,12600,532,Employed,Other,1
+245,35994,57,22033,616,Employed,Car,0
+246,53309,38,44350,732,Employed,Debt Consolidation,1
+247,50501,25,21169,628,Employed,Car,0
+248,46933,53,16483,734,Employed,Car,0
+249,95309,37,12409,607,Employed,Debt Consolidation,1
+250,68099,32,16367,492,Employed,Car,0
+251,34782,60,10555,610,Employed,Car,0
+252,78357,42,21944,677,Employed,Debt Consolidation,0
+253,102443,38,28304,670,Employed,Home,0
+254,80649,64,2000,549,Employed,Education,0
+255,29612,30,17100,621,Employed,Other,1
+256,50315,20,25912,850,Employed,Other,0
+257,85338,43,21971,551,Employed,Home,0
+258,45846,26,12515,702,Employed,Car,0
+259,68876,44,6427,482,Employed,Car,1
+260,75492,40,2293,719,Employed,Other,0
+261,41461,34,23942,578,Employed,Other,0
+262,58809,20,15789,682,Employed,Other,0
+263,20000,31,24484,546,Employed,Car,0
+264,39512,26,46294,673,Employed,Home,0
+265,54948,34,24666,577,Employed,Other,1
+266,35044,40,14564,592,Employed,Debt Consolidation,1
+267,92648,38,20818,685,Employed,Debt Consolidation,0
+268,31397,48,12301,615,Employed,Other,0
+269,51199,44,13054,680,Employed,Debt Consolidation,0
+270,62614,52,31319,634,Employed,Home,1
+271,88825,51,10550,655,Employed,Other,0
+272,31282,54,2000,685,Employed,Car,0
+273,83263,63,11417,621,Employed,Debt Consolidation,0
+274,60204,57,14779,570,Employed,Other,0
+275,40369,45,46169,607,Employed,Home,0
+276,69242,30,20814,745,Employed,Home,0
+277,63981,54,33450,659,Employed,Home,0
+278,47995,27,15204,582,Employed,Education,0
+279,61396,33,28301,682,Employed,Car,0
+280,52293,29,30029,687,Employed,Debt Consolidation,0
+281,62270,21,30203,691,Employed,Debt Consolidation,1
+282,73242,28,3434,571,Employed,Car,0
+283,91720,22,21381,595,Employed,Debt Consolidation,0
+284,35243,40,24375,595,Employed,Car,1
+285,102660,45,19437,621,Employed,Education,0
+286,20958,27,22374,693,Employed,Other,0
+287,56964,21,17719,673,Student,Other,0
+288,71766,25,17615,680,Employed,Home,0
+289,65619,47,3432,758,Employed,Education,0
+290,47546,48,12577,705,Employed,Car,0
+291,55837,45,60744,638,Employed,Home,0
+292,50139,44,15080,555,Employed,Debt Consolidation,0
+293,48212,31,2000,592,Unemployed,Debt Consolidation,0
+294,76992,24,24154,629,Employed,Car,0
+295,67140,53,27284,716,Employed,Debt Consolidation,0
+296,46141,56,26412,647,Employed,Education,0
+297,77991,34,20126,597,Student,Education,0
+298,66145,63,37654,591,Employed,Home,0
+299,76257,55,50186,644,Employed,Home,0
+300,72592,34,11248,721,Employed,Other,0
+301,43420,62,9652,777,Employed,Other,0
+302,48796,42,8071,633,Employed,Education,0
+303,74945,25,15110,646,Employed,Other,0
+304,72207,63,27537,552,Employed,Education,0
+305,59581,62,33653,805,Employed,Home,0
+306,62346,64,33157,537,Employed,Home,1
+307,85553,40,2717,743,Employed,Car,0
+308,48168,42,11669,620,Employed,Other,0
+309,70941,62,2795,602,Employed,Debt Consolidation,0
+310,55956,35,26678,561,Employed,Other,0
+311,55646,34,30014,842,Employed,Other,0
+312,81975,44,24548,667,Employed,Car,0
+313,76508,55,9710,651,Student,Car,0
+314,76270,30,45673,720,Employed,Home,0
+315,86109,34,17195,597,Employed,Debt Consolidation,0
+316,60420,23,7473,650,Employed,Other,0
+317,73639,40,9074,654,Employed,Education,0
+318,53794,32,15585,609,Employed,Debt Consolidation,0
+319,66483,41,27624,745,Employed,Home,1
+320,57397,38,15951,632,Employed,Other,0
+321,61939,53,5878,525,Employed,Other,0
+322,71903,33,27017,625,Employed,Other,0
+323,43635,23,16037,669,Employed,Other,0
+324,101847,46,11504,578,Employed,Other,1
+325,39879,48,40989,584,Employed,Home,0
+326,35716,47,8731,606,Employed,Debt Consolidation,0
+327,83162,54,4317,747,Employed,Car,0
+328,75833,27,27493,611,Employed,Other,0
+329,72482,35,32475,764,Employed,Other,0
+330,72566,61,13530,600,Employed,Other,0
+331,59755,55,16879,676,Employed,Other,1
+332,42054,49,8368,614,Employed,Car,0
+333,61516,37,19549,710,Employed,Debt Consolidation,0
+334,46456,21,21006,560,Employed,Home,0
+335,79502,32,16427,709,Employed,Other,0
+336,57058,23,20544,659,Employed,Other,0
+337,43490,45,8775,598,Employed,Car,0
+338,53572,44,14337,636,Employed,Other,0
+339,68258,49,2610,772,Employed,Education,0
+340,48725,30,15018,661,Employed,Car,0
+341,43555,26,18649,593,Employed,Debt Consolidation,0
+342,64873,50,19923,553,Employed,Car,1
+343,64899,63,30018,690,Employed,Home,1
+344,49861,29,38389,665,Employed,Home,1
+345,50579,58,5066,705,Employed,Car,0
+346,64640,32,5285,533,Employed,Other,0
+347,31038,50,21508,556,Student,Other,1
+348,31850,26,2000,741,Retired,Car,0
+349,45631,61,21168,676,Employed,Debt Consolidation,1
+350,55731,61,8085,692,Employed,Car,0
+351,66218,55,29911,572,Employed,Other,0
+352,89507,39,18428,571,Employed,Education,1
+353,77153,23,15485,729,Unemployed,Other,0
+354,56801,26,42469,733,Employed,Home,0
+355,59619,20,8689,562,Employed,Other,0
+356,39949,63,15995,547,Employed,Home,0
+357,59629,64,7095,641,Employed,Other,0
+358,54226,61,10733,586,Employed,Car,0
+359,66454,32,27770,584,Employed,Home,0
+360,43455,41,20303,549,Employed,Education,1
+361,70386,40,28248,612,Employed,Debt Consolidation,0
+362,90654,41,2672,557,Employed,Car,0
+363,57824,47,17936,562,Employed,Debt Consolidation,0
+364,68034,28,7967,673,Employed,Education,0
+365,73802,45,16275,645,Employed,Car,0
+366,51975,28,34473,688,Employed,Education,0
+367,64481,34,20451,518,Student,Car,1
+368,60251,29,27685,650,Employed,Debt Consolidation,1
+369,61953,43,51704,816,Employed,Home,0
+370,44539,61,26325,620,Student,Other,0
+371,60490,27,13051,715,Employed,Education,0
+372,69959,43,7889,715,Employed,Debt Consolidation,0
+373,89022,35,19225,719,Employed,Debt Consolidation,0
+374,79185,45,14333,663,Employed,Debt Consolidation,0
+375,103063,46,5194,695,Employed,Car,0
+376,44653,56,30035,705,Employed,Home,1
+377,77446,23,21919,700,Employed,Debt Consolidation,0
+378,63666,43,32860,560,Retired,Car,1
+379,103796,38,14961,513,Employed,Car,0
+380,43834,55,19504,525,Employed,Other,1
+381,43205,58,13444,628,Student,Debt Consolidation,0
+382,48012,29,25334,697,Employed,Car,0
+383,20000,44,16953,561,Employed,Car,0
+384,49484,37,7471,723,Employed,Education,0
+385,44817,38,16396,609,Employed,Education,1
+386,63007,55,21280,610,Employed,Car,1
+387,66835,29,30216,583,Employed,Home,0
+388,97523,52,24553,499,Employed,Education,1
+389,79008,24,5593,668,Employed,Other,0
+390,48461,54,11831,787,Employed,Debt Consolidation,0
+391,42031,63,22400,644,Employed,Other,0
+392,69838,53,12900,501,Employed,Debt Consolidation,0
+393,33595,52,20019,712,Employed,Car,0
+394,96629,40,2000,520,Employed,Education,0
+395,83588,36,61220,553,Employed,Home,0
+396,50616,41,15734,630,Employed,Car,0
+397,25737,56,25693,659,Employed,Education,0
+398,87077,34,13905,569,Employed,Education,0
+399,57709,54,23273,627,Employed,Debt Consolidation,0
+400,84756,47,27987,707,Employed,Education,0
+401,28111,26,25476,718,Employed,Education,0
+402,48012,51,16282,750,Employed,Car,0
+403,60104,30,15458,802,Employed,Education,0
+404,60939,29,25328,714,Employed,Other,0
+405,50998,28,40732,632,Employed,Debt Consolidation,1
+406,72456,33,29422,718,Employed,Home,1
+407,38647,32,51659,687,Student,Home,1
+408,57152,44,14641,690,Employed,Education,0
+409,62405,21,28162,664,Employed,Debt Consolidation,1
+410,70288,54,27249,577,Employed,Car,0
+411,74232,26,13949,567,Employed,Other,0
+412,37507,40,12701,642,Employed,Debt Consolidation,0
+413,29317,37,29923,661,Employed,Debt Consolidation,1
+414,85553,22,13534,595,Employed,Car,0
+415,66646,61,15731,683,Employed,Home,0
+416,45030,58,18382,816,Employed,Home,0
+417,91023,60,13500,510,Employed,Car,0
+418,62313,30,23095,696,Employed,Education,0
+419,83585,58,21396,644,Unemployed,Other,0
+420,61350,43,36017,686,Employed,Home,0
+421,101214,38,19744,615,Employed,Education,0
+422,95106,23,14096,638,Employed,Debt Consolidation,1
+423,55020,45,35783,660,Retired,Home,0
+424,79431,57,30260,625,Employed,Debt Consolidation,0
+425,72907,61,21000,528,Employed,Education,1
+426,87372,51,21777,631,Employed,Car,0
+427,40701,58,12519,536,Employed,Debt Consolidation,1
+428,73721,64,29668,702,Retired,Home,1
+429,81168,55,12035,500,Employed,Debt Consolidation,0
+430,24825,59,19281,732,Employed,Debt Consolidation,0
+431,36334,56,6332,684,Employed,Home,0
+432,20000,52,3929,684,Employed,Education,0
+433,54611,55,24592,476,Employed,Home,0
+434,74350,22,12835,623,Employed,Other,0
+435,90047,28,17322,742,Employed,Education,0
+436,61481,27,25301,608,Employed,Home,0
+437,92572,52,18253,563,Employed,Car,1
+438,32397,25,22149,599,Employed,Other,1
+439,25932,60,12932,644,Employed,Education,0
+440,58889,58,15483,581,Employed,Other,0
+441,67681,23,32740,748,Employed,Debt Consolidation,1
+442,59346,32,17274,644,Employed,Other,0
+443,20000,21,15120,605,Employed,Education,1
+444,58217,24,17914,545,Employed,Other,1
+445,33910,63,15951,688,Employed,Other,0
+446,73393,46,13042,686,Employed,Debt Consolidation,0
+447,67331,51,10417,586,Employed,Debt Consolidation,0
+448,41202,40,10621,471,Employed,Education,1
+449,49722,27,24276,682,Employed,Other,1
+450,38815,57,11649,635,Employed,Education,0
+451,58746,27,16002,676,Employed,Other,0
+452,79102,22,25876,806,Employed,Debt Consolidation,0
+453,40285,63,14356,647,Employed,Education,0
+454,70080,22,23320,608,Student,Car,1
+455,49394,41,5057,558,Employed,Car,0
+456,44142,25,18294,625,Retired,Debt Consolidation,0
+457,57859,21,20217,662,Employed,Debt Consolidation,0
+458,39295,42,16678,654,Employed,Education,1
+459,48927,63,4458,787,Employed,Debt Consolidation,0
+460,36042,21,28106,689,Employed,Car,0
+461,99294,57,16231,639,Employed,Home,0
+462,60705,36,20814,593,Employed,Car,0
+463,46005,54,18066,671,Employed,Car,0
+464,64279,53,26431,577,Employed,Car,1
+465,57753,42,33343,664,Employed,Education,0
+466,55580,49,10741,688,Employed,Home,0
+467,72283,27,12549,632,Employed,Car,0
+468,75150,41,21220,599,Employed,Debt Consolidation,0
+469,49389,63,9441,475,Employed,Debt Consolidation,1
+470,48483,55,36855,741,Employed,Home,0
+471,54498,24,22993,682,Unemployed,Education,0
+472,20000,32,20807,684,Employed,Education,0
+473,29696,48,18321,525,Employed,Education,0
+474,87337,50,29505,760,Student,Car,0
+475,92899,35,7601,612,Employed,Education,0
+476,55019,61,17775,626,Employed,Other,1
+477,71531,49,10811,564,Employed,Education,1
+478,66225,35,27598,507,Employed,Debt Consolidation,1
+479,121577,31,2491,742,Employed,Other,0
+480,82391,36,19244,752,Employed,Debt Consolidation,0
+481,57441,35,20816,636,Employed,Car,0
+482,40889,31,15061,595,Employed,Home,0
+483,27871,27,12740,619,Employed,Car,1
+484,64069,39,19639,622,Employed,Debt Consolidation,0
+485,44872,22,24938,554,Employed,Other,1
+486,31554,35,8935,626,Employed,Other,0
+487,47068,49,9889,662,Employed,Education,0
+488,38369,64,29742,731,Employed,Debt Consolidation,0
+489,93742,42,14398,651,Employed,Education,0
+490,77632,47,12424,523,Employed,Debt Consolidation,1
+491,59840,59,24120,678,Employed,Car,0
+492,89598,24,13899,629,Employed,Car,0
+493,61547,39,24411,759,Retired,Education,0
+494,42774,59,18637,764,Employed,Home,0
+495,90462,63,16659,767,Retired,Car,0
+496,70778,20,28099,605,Student,Debt Consolidation,1
+497,39255,49,14757,809,Employed,Education,0
+498,56193,40,36526,678,Employed,Home,0
+499,42487,39,15995,780,Employed,Education,0
+500,32344,25,51969,609,Employed,Home,0
+501,78523,41,33775,626,Employed,Debt Consolidation,0
+502,98188,37,10265,671,Unemployed,Home,0
+503,32028,27,22386,662,Employed,Car,0
+504,71259,58,10213,750,Employed,Education,0
+505,46987,51,29412,631,Employed,Home,0
+506,50257,52,20122,743,Employed,Debt Consolidation,0
+507,48152,35,13702,708,Employed,Home,0
+508,42720,31,24650,632,Employed,Education,0
+509,60970,57,29561,702,Employed,Home,0
+510,43380,53,15608,612,Employed,Car,1
+511,65409,33,14319,838,Employed,Car,0
+512,58995,55,19174,436,Employed,Car,1
+513,55221,52,23212,703,Employed,Debt Consolidation,0
+514,41848,42,16950,508,Student,Car,1
+515,48464,64,2000,631,Employed,Debt Consolidation,0
+516,75107,21,17385,643,Employed,Other,0
+517,70018,60,5891,770,Employed,Car,1
+518,40448,40,24360,594,Employed,Home,0
+519,61986,21,9302,754,Employed,Home,0
+520,75027,46,5592,555,Employed,Education,0
+521,26611,28,27192,757,Employed,Other,0
+522,70867,20,15311,612,Employed,Car,0
+523,46747,30,15890,655,Employed,Debt Consolidation,0
+524,71411,22,23890,623,Employed,Debt Consolidation,1
+525,44734,42,16127,752,Employed,Debt Consolidation,0
+526,23902,45,38644,737,Employed,Debt Consolidation,1
+527,27449,23,15052,685,Employed,Other,0
+528,60961,37,31600,557,Employed,Home,1
+529,65194,25,39233,592,Employed,Home,1
+530,41913,54,47188,567,Retired,Home,0
+531,72771,41,17650,470,Employed,Home,0
+532,26769,62,15696,750,Student,Debt Consolidation,0
+533,58678,34,26314,623,Employed,Education,0
+534,35779,41,24804,622,Employed,Car,0
+535,46963,56,29284,769,Employed,Debt Consolidation,0
+536,60947,61,7044,611,Employed,Debt Consolidation,0
+537,42791,31,46504,582,Employed,Home,1
+538,52308,61,12571,632,Employed,Debt Consolidation,1
+539,80125,57,21249,559,Employed,Debt Consolidation,0
+540,48462,37,25132,677,Employed,Home,0
+541,76713,64,10178,620,Employed,Other,0
+542,37405,54,5879,609,Employed,Other,0
+543,70596,49,5027,602,Employed,Home,0
+544,88831,43,28499,641,Employed,Home,1
+545,20000,61,5187,656,Employed,Car,0
+546,44062,49,9182,608,Employed,Debt Consolidation,0
+547,71541,33,15494,621,Employed,Other,0
+548,55939,25,2000,643,Employed,Car,0
+549,67422,22,26588,635,Student,Debt Consolidation,0
+550,47920,35,2000,652,Employed,Home,0
+551,61731,26,18795,595,Employed,Debt Consolidation,0
+552,56886,33,19636,730,Employed,Debt Consolidation,0
+553,83355,28,33779,657,Employed,Home,0
+554,65088,34,19120,609,Employed,Debt Consolidation,0
+555,66752,40,33494,677,Employed,Other,0
+556,51762,54,21468,644,Employed,Debt Consolidation,0
+557,50247,21,40275,511,Employed,Home,1
+558,51348,46,11426,677,Employed,Other,0
+559,67889,21,20598,568,Employed,Debt Consolidation,1
+560,51580,54,30999,724,Employed,Car,0
+561,65795,37,14669,630,Employed,Education,0
+562,101508,33,19614,712,Employed,Car,0
+563,77422,39,24052,599,Employed,Education,0
+564,53479,37,11765,655,Employed,Car,1
+565,84024,29,2000,746,Retired,Other,0
+566,51838,44,19307,628,Employed,Other,1
+567,20000,21,39457,602,Employed,Home,1
+568,39838,44,6370,702,Employed,Other,0
+569,22584,52,25599,700,Employed,Debt Consolidation,1
+570,52969,55,22699,606,Employed,Other,0
+571,60368,50,2000,491,Unemployed,Debt Consolidation,0
+572,93528,33,9290,601,Employed,Education,0
+573,66538,20,15897,704,Employed,Debt Consolidation,0
+574,55617,35,15804,587,Employed,Other,1
+575,76588,22,11757,649,Employed,Car,1
+576,20000,54,10834,597,Employed,Other,1
+577,64712,60,29370,495,Employed,Education,0
+578,75417,25,15671,595,Employed,Education,1
+579,30428,44,11148,703,Employed,Education,0
+580,82875,32,19125,460,Unemployed,Debt Consolidation,0
+581,66769,53,22511,670,Employed,Car,1
+582,51694,27,17665,555,Student,Other,0
+583,72655,40,15593,698,Employed,Other,0
+584,105413,53,18809,707,Employed,Home,0
+585,63637,23,11919,636,Employed,Other,0
+586,64964,44,12978,636,Employed,Car,0
+587,50812,34,19108,585,Employed,Education,0
+588,43003,23,10452,542,Employed,Debt Consolidation,1
+589,76606,64,21303,785,Employed,Car,0
+590,42878,31,44803,580,Student,Home,1
+591,61431,51,19871,775,Employed,Other,0
+592,50446,51,22343,581,Employed,Home,0
+593,69579,47,7095,692,Employed,Car,0
+594,66673,32,33860,558,Employed,Debt Consolidation,0
+595,80750,50,8171,691,Employed,Car,0
+596,49799,33,24080,623,Employed,Other,0
+597,54602,39,25310,624,Employed,Debt Consolidation,1
+598,40424,37,16011,698,Employed,Car,1
+599,51114,48,23686,612,Employed,Home,0
+600,67546,25,2472,535,Employed,Other,0
+601,75139,51,31158,710,Student,Home,0
+602,41556,48,25141,558,Employed,Debt Consolidation,0
+603,77392,62,8114,691,Employed,Education,0
+604,87112,21,18082,727,Employed,Debt Consolidation,0
+605,68268,42,19844,619,Employed,Debt Consolidation,0
+606,97535,38,24819,744,Employed,Debt Consolidation,0
+607,44524,50,16529,688,Employed,Education,0
+608,35106,24,4700,594,Employed,Debt Consolidation,0
+609,24425,38,20322,762,Employed,Home,0
+610,89920,53,19886,558,Employed,Car,0
+611,73087,29,27157,619,Employed,Debt Consolidation,0
+612,58888,44,12811,633,Employed,Car,0
+613,65599,21,33344,698,Employed,Education,0
+614,37490,30,2000,739,Employed,Education,0
+615,108915,50,12159,734,Employed,Education,0
+616,62584,34,15860,667,Employed,Education,0
+617,62187,28,17673,627,Employed,Debt Consolidation,0
+618,74515,42,7650,503,Employed,Car,0
+619,69620,38,23575,544,Employed,Debt Consolidation,1
+620,64477,28,21117,791,Unemployed,Car,0
+621,44190,54,18402,503,Employed,Car,0
+622,69429,40,31181,587,Employed,Home,0
+623,97640,28,21660,741,Employed,Home,0
+624,86908,47,6621,666,Employed,Home,0
+625,91863,26,10981,724,Employed,Education,0
+626,49775,35,20929,693,Employed,Debt Consolidation,0
+627,40207,35,29050,767,Employed,Home,0
+628,57484,52,18347,673,Employed,Car,0
+629,61114,23,20725,703,Employed,Education,0
+630,81883,23,14211,592,Employed,Debt Consolidation,1
+631,26150,58,17464,696,Employed,Other,0
+632,90591,59,20905,618,Employed,Education,0
+633,56839,36,17286,613,Employed,Car,0
+634,51462,56,11334,721,Employed,Home,0
+635,39757,58,14885,722,Retired,Home,0
+636,26902,48,24979,785,Employed,Car,0
+637,76463,55,44545,779,Employed,Home,0
+638,61466,57,41808,723,Employed,Home,1
+639,34200,58,18287,512,Employed,Education,1
+640,34098,56,7893,796,Employed,Car,0
+641,53284,54,17198,723,Employed,Other,1
+642,93380,26,28529,588,Employed,Education,1
+643,54808,46,25128,708,Employed,Debt Consolidation,0
+644,29937,47,24385,567,Employed,Home,0
+645,55085,41,22310,699,Employed,Other,0
+646,54545,33,6725,544,Employed,Education,0
+647,20000,26,11649,585,Employed,Other,1
+648,58914,56,8151,706,Employed,Education,0
+649,55381,41,20115,735,Employed,Education,1
+650,73924,24,21998,676,Employed,Education,0
+651,96979,21,25061,627,Employed,Home,0
+652,82531,46,16001,480,Employed,Home,0
+653,54622,40,17091,633,Employed,Other,0
+654,37869,57,12753,692,Employed,Education,0
+655,111467,34,10840,624,Employed,Other,0
+656,61184,40,19110,648,Employed,Education,0
+657,60278,29,17449,635,Employed,Home,0
+658,59517,42,5246,624,Employed,Debt Consolidation,0
+659,63961,58,10064,656,Student,Home,0
+660,57112,24,6798,628,Employed,Home,0
+661,48526,20,18405,765,Unemployed,Education,0
+662,49062,32,19263,473,Employed,Car,1
+663,59344,40,18059,606,Employed,Other,0
+664,49131,45,34405,580,Employed,Home,0
+665,45743,64,30346,667,Employed,Debt Consolidation,0
+666,62128,40,14110,656,Employed,Debt Consolidation,0
+667,54900,37,23198,779,Employed,Debt Consolidation,1
+668,90079,56,4731,806,Employed,Car,0
+669,20000,64,27116,588,Employed,Education,1
+670,81830,51,6914,650,Employed,Education,0
+671,84921,55,11032,665,Employed,Education,0
+672,20000,36,12438,586,Employed,Other,0
+673,53146,54,4963,700,Employed,Other,0
+674,52571,30,18273,630,Employed,Car,1
+675,31849,40,21446,564,Employed,Debt Consolidation,0
+676,44443,45,17776,627,Employed,Debt Consolidation,0
+677,37788,23,5483,570,Employed,Debt Consolidation,1
+678,95045,53,33216,732,Employed,Other,0
+679,78713,37,22613,802,Employed,Car,0
+680,85431,59,40127,669,Employed,Car,0
+681,74433,54,12173,658,Employed,Debt Consolidation,0
+682,37418,60,39069,662,Employed,Home,1
+683,49509,48,36818,744,Employed,Home,1
+684,69787,48,23338,742,Retired,Home,0
+685,35557,57,44779,640,Employed,Home,1
+686,74259,61,13378,670,Employed,Education,0
+687,55193,40,13721,702,Retired,Education,0
+688,52503,61,2000,558,Employed,Car,1
+689,74219,32,21435,747,Employed,Car,0
+690,68885,60,7437,788,Employed,Debt Consolidation,0
+691,52780,36,14488,743,Student,Debt Consolidation,1
+692,83186,28,8598,550,Employed,Education,0
+693,38378,60,16167,492,Employed,Debt Consolidation,0
+694,72318,20,20823,706,Employed,Other,1
+695,71862,21,19601,589,Employed,Debt Consolidation,0
+696,53809,48,25957,672,Employed,Debt Consolidation,0
+697,66522,52,31017,772,Employed,Debt Consolidation,0
+698,34977,29,14281,597,Employed,Other,0
+699,78480,59,12815,619,Employed,Education,0
+700,56301,40,23874,672,Employed,Education,0
+701,49545,47,28937,546,Employed,Debt Consolidation,1
+702,80980,30,23211,589,Employed,Other,0
+703,45913,53,9584,651,Employed,Other,0
+704,31830,27,32325,625,Employed,Home,1
+705,28867,41,28379,698,Employed,Home,0
+706,72120,27,26841,850,Retired,Car,1
+707,34391,34,14286,657,Employed,Debt Consolidation,0
+708,95095,36,3667,582,Employed,Education,1
+709,20000,42,23797,763,Employed,Car,0
+710,93929,43,2000,522,Employed,Home,0
+711,64220,64,12843,538,Employed,Debt Consolidation,1
+712,58065,38,10188,602,Employed,Debt Consolidation,0
+713,49101,24,8959,627,Employed,Other,0
+714,67982,51,10732,600,Employed,Education,0
+715,59247,63,25873,647,Employed,Education,0
+716,82066,20,37338,671,Employed,Home,0
+717,62284,42,23828,735,Retired,Home,0
+718,63006,56,25228,657,Employed,Education,0
+719,52727,27,9076,605,Employed,Car,0
+720,58861,32,7934,731,Employed,Car,0
+721,66156,27,37881,584,Employed,Home,1
+722,25796,42,21916,519,Employed,Other,1
+723,33036,62,13544,746,Employed,Other,0
+724,74865,20,7756,741,Unemployed,Education,0
+725,63417,64,29000,586,Employed,Other,0
+726,56320,43,3403,618,Employed,Other,0
+727,60368,54,14054,576,Employed,Debt Consolidation,0
+728,66951,43,19920,676,Employed,Car,0
+729,49204,36,49707,788,Employed,Home,0
+730,44433,24,22986,706,Employed,Debt Consolidation,1
+731,63916,39,20198,732,Employed,Education,0
+732,40432,40,14318,715,Employed,Debt Consolidation,0
+733,68165,59,21826,649,Employed,Other,0
+734,25948,50,28326,736,Employed,Home,0
+735,80583,55,4268,709,Employed,Education,0
+736,69451,30,26715,765,Employed,Debt Consolidation,1
+737,65120,34,23972,613,Student,Education,1
+738,79653,38,37122,510,Employed,Home,0
+739,93309,26,18279,733,Employed,Car,0
+740,80287,47,9968,677,Employed,Car,0
+741,23182,62,2000,626,Employed,Debt Consolidation,0
+742,34408,24,18514,630,Employed,Other,0
+743,47503,24,27088,850,Employed,Car,0
+744,60521,49,28559,598,Employed,Debt Consolidation,0
+745,70353,51,24855,581,Student,Car,1
+746,45485,27,16652,656,Employed,Other,0
+747,63735,29,26004,744,Employed,Other,0
+748,44892,57,23616,832,Employed,Education,0
+749,47769,51,13245,702,Employed,Education,1
+750,31866,47,23683,548,Employed,Car,1
+751,41535,36,13497,807,Employed,Car,0
+752,32966,50,21597,648,Employed,Other,1
+753,40482,27,6496,582,Employed,Education,0
+754,81072,59,7088,563,Employed,Education,0
+755,41012,44,25768,716,Employed,Other,0
+756,112647,28,28031,669,Student,Debt Consolidation,1
+757,69866,21,21378,677,Employed,Education,0
+758,63696,34,17177,752,Employed,Education,0
+759,42832,22,2000,585,Employed,Home,0
+760,74006,55,17371,759,Employed,Car,0
+761,48487,23,23633,608,Employed,Debt Consolidation,0
+762,62440,33,14633,823,Employed,Debt Consolidation,0
+763,111201,60,13016,697,Employed,Debt Consolidation,0
+764,58078,60,30133,576,Employed,Car,1
+765,82985,44,16035,487,Employed,Education,0
+766,45936,29,20911,714,Employed,Other,0
+767,59300,40,22460,620,Employed,Education,1
+768,95416,55,10386,637,Unemployed,Debt Consolidation,0
+769,47460,31,29434,711,Employed,Home,0
+770,96248,46,27873,730,Employed,Other,0
+771,74155,59,36054,747,Employed,Debt Consolidation,0
+772,48750,21,18335,556,Employed,Car,1
+773,72648,32,24001,764,Employed,Home,0
+774,79451,51,18571,603,Employed,Education,1
+775,72436,50,18376,469,Student,Education,1
+776,28595,35,44473,555,Employed,Home,1
+777,45457,51,9229,667,Employed,Other,0
+778,55049,51,14997,571,Employed,Other,1
+779,58511,53,7898,642,Employed,Education,0
+780,72413,30,14247,677,Employed,Home,0
+781,63554,29,20281,635,Retired,Other,0
+782,33293,34,22735,610,Employed,Education,1
+783,67603,36,13590,549,Unemployed,Debt Consolidation,1
+784,72211,59,22445,651,Employed,Education,0
+785,71195,37,27337,484,Employed,Car,0
+786,81615,28,32824,595,Employed,Other,0
+787,76678,44,17811,575,Employed,Other,0
+788,69183,59,12625,630,Employed,Car,0
+789,58596,33,8780,632,Employed,Education,0
+790,26780,44,8744,726,Employed,Car,1
+791,68592,41,27310,776,Employed,Other,0
+792,64153,49,4833,560,Employed,Education,0
+793,65431,39,27052,809,Employed,Other,0
+794,34465,40,10259,587,Student,Other,1
+795,38378,63,12244,663,Employed,Car,1
+796,81063,51,18120,690,Employed,Debt Consolidation,0
+797,59208,40,11081,845,Employed,Education,0
+798,73630,54,24752,606,Employed,Other,0
+799,60566,51,30462,506,Employed,Education,0
+800,60595,49,11957,769,Employed,Other,0
+801,78765,58,14369,583,Employed,Car,0
+802,49679,31,16628,621,Employed,Car,0
+803,61922,60,20666,560,Employed,Education,1
+804,50754,37,16014,621,Employed,Other,1
+805,51310,40,27181,582,Employed,Education,0
+806,53816,32,41447,704,Employed,Home,0
+807,64442,40,7371,656,Employed,Education,0
+808,50425,27,22376,595,Employed,Car,1
+809,85115,59,28206,729,Employed,Education,0
+810,42107,26,12690,670,Student,Education,0
+811,56262,42,14234,502,Employed,Education,1
+812,51205,63,13564,723,Student,Car,0
+813,88939,51,20610,664,Employed,Home,0
+814,63931,30,4317,761,Employed,Debt Consolidation,0
+815,80636,41,6271,659,Employed,Education,0
+816,30288,41,18650,586,Unemployed,Car,1
+817,65341,62,33273,633,Employed,Debt Consolidation,0
+818,77792,44,19271,714,Employed,Home,1
+819,61645,41,13650,588,Student,Debt Consolidation,0
+820,81309,47,34983,614,Employed,Debt Consolidation,0
+821,49654,48,8328,632,Employed,Other,0
+822,88186,32,4045,558,Employed,Car,1
+823,105977,37,11960,589,Employed,Debt Consolidation,0
+824,52743,21,11914,663,Student,Other,0
+825,51089,48,3183,746,Student,Other,1
+826,89067,40,15514,675,Employed,Education,1
+827,91591,34,38950,646,Employed,Home,0
+828,49542,46,6598,583,Employed,Education,0
+829,51596,50,17174,737,Student,Education,1
+830,54364,34,20437,684,Retired,Other,0
+831,33110,42,16578,593,Employed,Other,1
+832,41626,43,17929,721,Employed,Education,0
+833,39917,63,18019,694,Student,Education,0
+834,44644,32,10241,584,Unemployed,Education,0
+835,59306,41,33137,641,Student,Debt Consolidation,1
+836,64684,62,26107,610,Employed,Education,0
+837,91010,56,30328,850,Employed,Debt Consolidation,1
+838,40032,52,39772,692,Employed,Home,1
+839,79686,22,4372,664,Employed,Education,0
+840,55720,38,24704,687,Retired,Other,0
+841,59010,42,23507,760,Employed,Car,1
+842,73496,48,5517,643,Retired,Debt Consolidation,0
+843,37545,49,17544,602,Employed,Debt Consolidation,0
+844,67648,58,19478,717,Employed,Other,0
+845,63329,63,30647,636,Student,Other,1
+846,69849,44,23084,564,Employed,Other,0
+847,65783,56,10737,548,Employed,Car,1
+848,109106,27,32241,772,Employed,Car,0
+849,47245,61,19898,660,Employed,Debt Consolidation,0
+850,49380,35,17171,602,Employed,Debt Consolidation,0
+851,47537,27,14616,631,Employed,Other,1
+852,48890,20,6543,714,Employed,Home,0
+853,47252,63,25616,626,Employed,Home,1
+854,83780,24,24027,534,Employed,Debt Consolidation,1
+855,88410,22,14147,676,Employed,Other,0
+856,48585,20,20634,746,Employed,Other,1
+857,43352,23,11634,741,Employed,Debt Consolidation,0
+858,69428,59,15414,605,Employed,Education,1
+859,48955,54,30988,751,Employed,Home,0
+860,72658,51,21225,667,Employed,Debt Consolidation,0
+861,64058,61,4326,749,Employed,Other,0
+862,29685,53,13119,695,Employed,Education,0
+863,90950,62,34764,528,Employed,Debt Consolidation,0
+864,95917,44,13285,789,Employed,Other,0
+865,47744,29,27199,654,Employed,Home,0
+866,52245,40,18710,696,Employed,Debt Consolidation,1
+867,65717,58,31173,542,Employed,Car,1
+868,66689,46,28839,690,Employed,Car,0
+869,73170,46,37174,738,Employed,Home,0
+870,100204,21,9006,804,Employed,Education,0
+871,56461,60,19265,762,Employed,Education,0
+872,44034,32,24668,694,Unemployed,Debt Consolidation,0
+873,32413,28,18197,526,Employed,Home,0
+874,45381,55,16031,660,Employed,Home,0
+875,59337,41,30975,602,Employed,Other,0
+876,95891,61,16762,668,Employed,Debt Consolidation,0
+877,49647,45,31565,552,Employed,Car,0
+878,64475,31,25276,633,Employed,Other,0
+879,59671,36,32139,608,Employed,Home,0
+880,83767,33,19984,606,Employed,Education,0
+881,110538,33,6236,606,Employed,Car,0
+882,49382,53,19736,639,Employed,Car,0
+883,50211,39,44854,672,Employed,Home,0
+884,80883,30,22734,450,Employed,Other,0
+885,73637,35,18492,459,Employed,Other,0
+886,96934,50,35078,622,Employed,Debt Consolidation,1
+887,71678,25,24668,634,Student,Home,0
+888,52814,38,11729,665,Employed,Education,0
+889,71813,56,19292,591,Employed,Car,0
+890,82174,23,22401,650,Employed,Education,0
+891,76409,23,3868,660,Employed,Debt Consolidation,0
+892,70145,39,18693,591,Employed,Education,1
+893,81333,29,24806,731,Employed,Car,0
+894,83385,43,15079,664,Employed,Other,0
+895,87643,54,40947,693,Employed,Home,0
+896,72974,45,23385,655,Employed,Car,0
+897,56657,56,32988,818,Employed,Education,1
+898,62934,57,11694,697,Employed,Car,0
+899,84130,40,22896,610,Employed,Education,0
+900,43661,59,8666,715,Employed,Education,0
+901,67373,58,4246,518,Employed,Other,0
+902,52133,40,2000,659,Employed,Car,0
+903,60574,29,21583,675,Employed,Other,0
+904,85569,57,21176,660,Employed,Debt Consolidation,0
+905,63821,23,13975,623,Employed,Car,1
+906,60928,64,2844,569,Employed,Education,0
+907,32802,39,13217,586,Employed,Debt Consolidation,0
+908,74925,36,19537,658,Employed,Debt Consolidation,0
+909,72909,26,36993,560,Employed,Home,0
+910,103265,23,19349,791,Employed,Debt Consolidation,1
+911,53844,48,18440,438,Employed,Education,0
+912,64383,33,14222,624,Employed,Other,0
+913,64987,22,32693,658,Employed,Car,0
+914,91549,43,10233,690,Employed,Debt Consolidation,0
+915,58094,56,13136,576,Employed,Debt Consolidation,1
+916,65580,35,13864,740,Employed,Car,0
+917,72157,23,24438,538,Employed,Debt Consolidation,0
+918,63732,43,10046,604,Employed,Debt Consolidation,0
+919,51071,53,20735,699,Employed,Debt Consolidation,0
+920,63881,49,21000,733,Employed,Debt Consolidation,0
+921,81472,37,13181,537,Employed,Debt Consolidation,1
+922,39469,38,19906,850,Employed,Other,1
+923,62659,50,10328,578,Employed,Debt Consolidation,1
+924,45997,38,8257,545,Employed,Other,0
+925,83900,38,20406,690,Employed,Debt Consolidation,1
+926,29536,41,4058,622,Employed,Car,0
+927,48821,43,2000,610,Employed,Education,0
+928,67544,64,20602,697,Employed,Education,1
+929,91310,31,29045,527,Employed,Debt Consolidation,0
+930,58684,49,21118,513,Employed,Home,0
+931,48896,57,12388,602,Employed,Car,0
+932,97623,50,28650,736,Employed,Debt Consolidation,0
+933,31039,55,12566,605,Employed,Home,1
+934,20000,38,9821,777,Employed,Home,0
+935,68800,64,21948,746,Employed,Education,0
+936,49958,55,17322,672,Retired,Other,0
+937,39575,49,24699,677,Student,Education,0
+938,74167,52,2000,672,Employed,Other,0
+939,64876,37,5974,662,Student,Other,0
+940,48718,47,18120,620,Employed,Car,0
+941,34393,30,20612,629,Employed,Other,0
+942,77449,64,23021,564,Employed,Education,0
+943,73004,52,18657,473,Employed,Other,1
+944,58016,36,20998,738,Retired,Debt Consolidation,0
+945,96932,25,14729,662,Employed,Car,0
+946,38598,23,47045,650,Employed,Home,1
+947,29489,39,8370,681,Retired,Other,0
+948,46161,46,31523,583,Employed,Home,0
+949,59088,34,9298,569,Employed,Other,0
+950,64866,25,21554,627,Student,Other,0
+951,55175,33,10063,759,Employed,Debt Consolidation,0
+952,67041,30,23237,556,Employed,Other,0
+953,34969,58,18152,439,Employed,Other,0
+954,88875,28,31294,608,Employed,Other,0
+955,58356,45,15639,741,Employed,Car,0
+956,82345,35,23367,511,Employed,Debt Consolidation,1
+957,66854,24,17176,555,Employed,Home,0
+958,69135,29,14283,671,Employed,Education,0
+959,71395,22,17314,850,Employed,Education,0
+960,68954,32,5602,541,Employed,Debt Consolidation,0
+961,72854,62,6599,538,Employed,Debt Consolidation,1
+962,86583,49,21118,677,Employed,Education,0
+963,63930,64,16074,746,Employed,Other,0
+964,74180,25,12476,600,Employed,Other,0
+965,58205,36,17713,520,Employed,Home,1
+966,88802,64,12132,684,Employed,Car,0
+967,46472,38,28418,699,Employed,Home,0
+968,96018,61,20832,792,Employed,Other,1
+969,59196,54,2000,702,Employed,Education,0
+970,31384,45,28623,716,Employed,Other,0
+971,62562,24,29270,629,Employed,Car,0
+972,46378,48,2000,845,Student,Home,0
+973,76812,56,25991,618,Employed,Other,0
+974,46947,39,25744,601,Employed,Other,0
+975,51076,40,18003,794,Employed,Car,1
+976,22209,29,6511,532,Employed,Education,0
+977,50953,24,39791,502,Employed,Home,1
+978,20000,55,15308,659,Employed,Other,0
+979,28321,25,22610,649,Employed,Car,1
+980,75208,45,33587,631,Employed,Education,0
+981,75716,23,30173,729,Employed,Home,1
+982,68509,58,9869,577,Employed,Other,0
+983,40660,58,22769,655,Employed,Home,0
+984,59045,54,10421,621,Employed,Education,0
+985,59927,20,23444,578,Employed,Debt Consolidation,1
+986,36832,43,12164,645,Employed,Debt Consolidation,1
+987,90067,55,13443,718,Employed,Other,0
+988,77547,25,6609,819,Employed,Education,0
+989,55580,60,18298,696,Employed,Debt Consolidation,0
+990,60537,63,29227,449,Employed,Home,1
+991,64167,50,2000,646,Employed,Education,1
+992,20000,39,30270,653,Employed,Home,0
+993,55056,43,16148,724,Employed,Education,0
+994,46360,44,10609,664,Employed,Education,0
+995,39967,55,33580,750,Employed,Other,0
+996,54377,40,39076,681,Employed,Home,0
+997,95953,49,8790,774,Employed,Car,0
+998,72816,43,22954,614,Employed,Education,0
+999,48576,63,27268,661,Employed,Other,1
+1000,71451,61,18312,716,Employed,Other,0
